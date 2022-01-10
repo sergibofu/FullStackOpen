@@ -1,0 +1,4 @@
+title 0.5
+
+Browser->Server: HTTP GET https://fullstack-exampleapp.herokuapp.com/spa
+Server->Browser: the server sends files to the browser
